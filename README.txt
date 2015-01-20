@@ -1,0 +1,1 @@
+Moving from design to programing. This Document shall be updated as I move along to help me remember what I have learned.
